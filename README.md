@@ -1,10 +1,13 @@
-### Hi there 👋
-### - 🔭 I’m currently working on a Postman Helper Collection.
-### - 🌱 I’m currently learning Swift UI and Ruby on Rails.
+[![Header](https://raw.githubusercontent.com/DustinMaj/DustinMaj/readme_header.png "Header")](https://some-url.dev/)
 
-### - 📫 How to reach me: dustin.majtan@ramseysolutions.com
 
-### - ⚡ Fun fact: I love candlelit baths.
+### Hi there &#x1f596;
+### - 💻  I’m currently working on a Postman Helper Collection.
+### - 📚  I’m currently learning Swift UI and Ruby on Rails.
+
+### - 📫  How to reach me: dustin.majtan@ramseysolutions.com
+
+### - 🤪  Fun fact: I love candlelit baths.
 <!--
 **DustinMaj/DustinMaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
